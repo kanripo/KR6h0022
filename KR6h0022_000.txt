@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 百千頌大集經地藏菩薩請問法身讚
+#+DATE: 2015-08-30 20:06:45.105114
+#+PROPERTY: JUAN 0
